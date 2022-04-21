@@ -7,6 +7,7 @@ WindowsGSM will then use the "arma3server_x64.exe" to launch your copy pasted la
 
 ## Requirements
 [WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) >= 1.21.0
+
 [FASTER](https://github.com/Foxlider/FASTER)
 
 ## Installation
