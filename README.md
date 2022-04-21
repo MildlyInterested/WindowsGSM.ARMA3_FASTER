@@ -1,6 +1,8 @@
 # WindowsGSM.ARMA3_FASTER
-WindowsGSM plugin that integrates FASTER managed Arma servers into WindowsGSM
+WindowsGSM plugin that integrates FASTER managed Arma servers into WindowsGSM.
+
 All this plugin does it to create an empty server folder thats tracked by WindowsGSM so you can let FASTER install a server into that.
+
 WindowsGSM will then use the "arma3server_x64.exe" to launch your copy pasted launch arguments from FASTER.
 
 ## Requirements
