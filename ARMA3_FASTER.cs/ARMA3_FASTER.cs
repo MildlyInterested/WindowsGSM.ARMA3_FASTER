@@ -46,7 +46,7 @@ namespace WindowsGSM.Plugins
         public string QueryPort = "2303"; // Default query port
         public string Defaultmap = "empty"; // Default map name
         public string Maxplayers = "64"; // Default maxplayers
-        public string Additional = "-profiles=ArmaHosts -config=server.cfg"; // Additional server start parameter
+        public string Additional = "Paste your FASTER startup string here"; // Additional server start parameter
 
 
         // - Create a default cfg for the game server after installation
